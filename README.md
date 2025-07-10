@@ -28,46 +28,6 @@ This repository explores the often-overlooked trade-offs in algorithmic fairness
 
 ---
 
-## 📂 Repository Structure
-
-```
-.
-├── data/                   # Preprocessed dataset files
-├── figures/                # All generated plots used in the paper
-├── notebooks/
-│   └── fairness_analysis.ipynb   # Main analysis notebook
-├── src/                    # Core reusable Python modules (optional)
-├── pivot_table_summary.csv        # Summary metrics table
-├── full_results.csv                 # All detailed results
-├── requirements.txt        # Python dependencies
-└── README.md               # You’re here
-```
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/yourusername/data-scientist-dilemma.git
-cd data-scientist-dilemma
-```
-
-### 2. Create environment
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Launch the notebook
-
-```bash
-jupyter notebook notebooks/fairness_analysis.ipynb
-```
-
----
-
 ## 📈 Datasets
 
 We use 3 canonical fairness datasets:
