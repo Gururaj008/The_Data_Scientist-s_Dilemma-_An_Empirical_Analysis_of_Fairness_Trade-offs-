@@ -101,7 +101,7 @@ If you use this work in your research, please cite:
 @article{gururaj2025dilemma,
   title={The Data Scientist's Dilemma: An Empirical Analysis of Fairness Trade-offs and Unintended Mitigation Consequences},
   author={Gururaj H C and Nithya A S and Vasudha Hegde},
-  journal={[H C, G. (2025). The Data Scientist's Dilemma: An Empirical Analysis of Fairness Trade-offs and Unintended Mitigation Consequences. Zenodo. https://doi.org/10.5281/zenodo.15959985](https://zenodo.org/records/15959985)},
+  journal={[H C, G. (2025). The Data Scientist's Dilemma: An Empirical Analysis of Fairness Trade-offs and Unintended Mitigation Consequences. Zenodo. https://doi.org/10.5281/zenodo.15959985]},
   year={2025}
 }
 ```
