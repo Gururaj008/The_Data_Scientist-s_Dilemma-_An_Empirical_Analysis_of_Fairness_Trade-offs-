@@ -75,15 +75,6 @@ Diagnose **side-effects**—discover when fixing one bias unintentionally worsen
 
 ---
 
-## 📊 Results Files
-
-| File | Description |
-|------|-------------|
-| [`pivot_table_summary.csv`](./pivot_table_summary.csv) | Aggregated fairness and accuracy results across all models, datasets, and mitigation strategies. |
-| [`full_results.csv`](./full_results.csv) | Full set of raw results for all combinations of model, dataset, and fairness method. Useful for detailed analysis or reproduction. |
-
----
-
 ## 🛠️ Tools Used
 
 - [Fairlearn](https://fairlearn.org/)
@@ -105,7 +96,7 @@ If you use this work in your research, please cite:
   year={2025}
 }
 ```
-
+Pre print available at : https://zenodo.org/records/15959985
 ---
 
 ## 🤝 Acknowledgements
