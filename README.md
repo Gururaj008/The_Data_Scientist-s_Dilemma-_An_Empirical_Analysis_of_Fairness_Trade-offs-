@@ -96,7 +96,7 @@ If you use this work in your research, please cite:
   year={2025}
 }
 ```
-Pre print available at : https://zenodo.org/records/15959985
+### Pre print available at : https://www.techrxiv.org/users/945151/articles/1315135-the-data-scientist-s-dilemma-an-empirical-analysis-of-fairness-trade-offs-and-unintended-mitigation-consequences
 ---
 
 ## 🤝 Acknowledgements
